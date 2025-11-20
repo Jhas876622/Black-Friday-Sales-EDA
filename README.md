@@ -244,20 +244,6 @@ plt.show()
 
 ---
 
-## 📸 Visuals / Plots
-
-You can export and add key plots to the repo:
-
-```markdown
-![Average Purchase by Age Group](images/avg_purchase_by_age.png)
-![Purchase Distribution](images/purchase_distribution.png)
-![Revenue by City Category](images/revenue_by_city.png)
-```
-
-> These are **placeholders** – update with real filenames as you save your plots.
-
----
-
 ## 🤝 Contributing
 
 Contributions, ideas, and suggestions are welcome!
@@ -274,10 +260,6 @@ Contributions, ideas, and suggestions are welcome!
 If you like this project or want to collaborate:
 
 * **GitHub:** [@jhas876622](https://github.com/jhas876622)
-* **Email:** [jha876622@gmail.com]
+* **Email:** jha876622@gmail.com
 
----
-
-## 📝 License
-
-This project is open source. You can add a license of your choice (for example, MIT License) as `LICENSE` file in the root directory.
+## thankyou---
